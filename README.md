@@ -1,8 +1,12 @@
 📘 Classification of Computer Network
 
-Network অর্থ Computer এর মধ্যে বিভিন্ন ধরনের উপায়ে যুক্ত করে Computer Network কে মূলত তিন ভাগে ভাগ করা হয়। যথা:
+Network ভুক্ত Computer এর দূরত্বের উপর ভিত্তি করে Computer Network কে মূলত তিন ভাগে ভাগ করা হয়। যথা:
 
-🔹 LAN (Local Area Network)🔹 MAN (Metropolitan Area Network)🔹 WAN (Wide Area Network)
+🔹 LAN (Local Area Network)
+
+🔹 MAN (Metropolitan Area Network)
+
+🔹 WAN (Wide Area Network)
 
 🌐 LAN:
 
